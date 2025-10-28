@@ -1,1 +1,7 @@
-
+{
+  "uuid": "put-group-uuid-here",
+  "display_name": "Preachta Stoirm Clann",
+  "prefix": "[psc] ",
+  "split_on": "---",
+  "rate_limit_seconds": 2
+}
