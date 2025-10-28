@@ -1,7 +1,7 @@
 {
-  "uuid": "8ae197c6-098e-7a49-8302-f1d666904689",
-  "display_name": "Preachta Stoirm Clann",
-  "prefix": "[psc] ",
+  "uuid": "45d71cc1-17fc-8ee4-8799-7164ee264811",
+  "display_name": "OpenCollar",
+  "prefix": "[oc] ",
   "split_on": "---",
   "rate_limit_seconds": 2
 }
