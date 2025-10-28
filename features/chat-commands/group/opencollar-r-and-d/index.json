@@ -2,14 +2,11 @@
   "visible_order": ["commands", "version", "about", "rules", "faq", "info", "links"],
   "commands": {
     "commands": { "built_in": "list", "visible": true, "aliases": ["help", "?"] },
-
-    "version": { "file": "public/version.txt", "visible": true },
-    "about":   { "file": "public/about.txt",   "visible": true },
-    "rules":   { "file": "public/rules.txt",   "visible": true },
-    "faq":     { "file": "public/faq.txt",     "visible": true },
-    "info":    { "file": "public/info.txt",    "visible": true },
-    "links":   { "file": "public/links.txt",   "visible": true }
-
-    // note: mod-only actions like !update, !relog, !clear are defined in control/triggers/* (not listed here)
+    "version":  { "file": "public/version.txt", "visible": true },
+    "about":    { "file": "public/about.txt",   "visible": true },
+    "rules":    { "file": "public/rules.txt",   "visible": true },
+    "faq":      { "file": "public/faq.txt",     "visible": true },
+    "info":     { "file": "public/info.txt",    "visible": true },
+    "links":    { "file": "public/links.txt",   "visible": true }
   }
 }
