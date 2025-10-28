@@ -1,1 +1,5 @@
-
+{
+  "relog":        { "params": [] },
+  "update_cache": { "params": [] },
+  "clear_chat":   { "params": ["lines"] }
+}
