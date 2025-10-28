@@ -1,1 +1,5 @@
-
+{
+  "groups": [
+    { "uuid": "put-group-uuid-here", "slug": "preachta-stoirm-clann", "display_name": "Preachta Stoirm Clann" }
+  ]
+}
