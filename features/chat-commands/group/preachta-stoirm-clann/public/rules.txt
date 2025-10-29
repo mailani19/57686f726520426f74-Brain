@@ -1,1 +1,17 @@
+Group Chat Rules
+--------------------------------------------------------------------------------
+This chat is for OpenCollar related support and polite discussion.
 
+Off-topic chat is welcome provided no one is actively seeking help for an OpenCollar issue.
+
+Please follow these basic guidelines:
+
+• Be respectful. No personal attacks, abuse or harassment.
+• No spaming, advertising, or soliciting others.
+• Do not use this chat to look for masters, subs, or hookups.
+• No attacks on OpenCollar, its members, or its policies.
+• Keep personal disputes out of group chat.
+• Do not interrupt active help sessions with unrelated talk.
+• Do not argue with the mods.
+
+Violations may result in a warning, being muted, temp or perrma-banned from group chat at the sole discretion of the moderation team.
