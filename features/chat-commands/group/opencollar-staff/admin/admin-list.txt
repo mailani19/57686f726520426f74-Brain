@@ -1,0 +1,2 @@
+# one UUID per line; comments allowed
+bd7e80ea-6cd1-4095-be39-272623f72594     //    Lucifer (Lucifer Baphomet)
