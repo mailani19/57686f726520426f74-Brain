@@ -1,5 +1,6 @@
+
 Group Chat Rules
---------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------
 This chat is for OpenCollar related support and polite discussion.
 
 Off-topic chat is welcome provided no one is actively seeking help for an OpenCollar issue.
