@@ -1,3 +1,1 @@
 # one UUID per line; comments allowed
-1a828b4e-6345-4bb3-8d41-f93e6621ba25    //    ròan (Silkie Serenade)
-bd7e80ea-6cd1-4095-be39-272623f72594     //    Lucifer (Lucifer Baphomet)
