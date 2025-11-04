@@ -1,2 +1,7 @@
 # one UUID per line; comments allowed
+18032323-4a80-47f8-8aaf-cd500d8f6cea    //    Medea Destiny
+2ef93e7c-6a4c-47e1-a3ee-9e56303cd9d1    //    Zeke Viridian (Zeke Onyx)
+7e178c16-5d5e-4915-b0b2-a32fb8dcacf2    //    Ping (Pingout Duffield)
+b3c21e55-a326-455e-b302-ffeeb95e4027    //    The Orville - S01E10 (StarWolff2000 Resident)
+b3f5aee5-e854-495e-b36c-27bcaccefbf8    //    Iala Yamamoto (jwenting Resident)
 bd7e80ea-6cd1-4095-be39-272623f72594     //    Lucifer (Lucifer Baphomet)
