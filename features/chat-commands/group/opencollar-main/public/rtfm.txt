@@ -2,6 +2,10 @@
 Requesting Tips? Find Manual
 --------------------------------------------------------------------------------------
 
-Thanks for your question! Most of what you’re asking is already explained in the user guide linked below.
+Thanks for your question!
+
+Most of what you’re asking is already explained in the user guide linked below.
+
 Giving it a quick read first makes it easier for everyone to help with the actual tricky stuff instead of replaying the tutorial on loop.
+
 https://opencollar.cc/docs/Complete-User-Guide
