@@ -7,6 +7,7 @@
     "rules":    { "file": "public/rules.txt",   "visible": true },
     "faq":      { "file": "public/faq.txt",     "visible": true },
     "info":     { "file": "public/info.txt",    "visible": true },
-    "links":    { "file": "public/links.txt",   "visible": true }
+    "links":    { "file": "public/links.txt",   "visible": true },
+    "rtfm":     { "file": "public/rtfm.txt",    "visible": true }
   }
 }
