@@ -1,5 +1,5 @@
 {
-  "visible_order": ["commands", "version", "about", "rules", "faq", "info", "links"],
+  "visible_order": ["commands", "rtfm", "version", "about", "rules", "faq", "info", "links"],
   "commands": {
     "commands": { "built_in": "list", "visible": true, "aliases": ["help", "?"] },
     "version":  { "file": "public/version.txt", "visible": true },
